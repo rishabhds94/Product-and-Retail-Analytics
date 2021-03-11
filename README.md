@@ -17,7 +17,12 @@ InvoiceNo	StockCode	Description	Quantity	InvoiceDate	UnitPrice	CustomerID	Countr
 8.Country - Shows the country in which sale is done.
 
 ### Library used
-pandas,numpy,matplotlib,seaborn,warnings,datetime
+* pandas 
+* numpy
+* matplotlib
+* seaborn,
+* warnings,
+* datetime
 
 ### Insights from the data
 1.Maximum sale with respect to quantity is done in United Kingdom.
