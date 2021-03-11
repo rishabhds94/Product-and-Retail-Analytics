@@ -2,19 +2,18 @@
 ### Introduction
 This project is focused on doing Exploratory Data Analysis with Python and generate insights from an offline retail store. 
 
-Dataset - ProductRetailAnalyticsEcom
-Description - Dataset contains sale of an offline store from 1st Dec 2010 to 9th Dec 2011 (One year)
+Dataset - ProductRetailAnalyticsEcom.
+Description - Dataset contains sale of an offline store from 1st Dec 2010 to 9th Dec 2011 (One year).
 
 The varaible used in the dataset are described below:
-InvoiceNo	StockCode	Description	Quantity	InvoiceDate	UnitPrice	CustomerID	Country
-1.InvoiceNo - This shows the Invoice number.
-2.StockCode - Shows the code of the stock.
-3.Description - Shows the name of the stock.
-4.Quantity - Shows the number of quantity sold.
-5.InvoiceDate - Shows the date of transaction.
-6.UnitPrice - Shows price of respective stock.
-7.CustomerId -  Shows the unique id of the customer.
-8.Country - Shows the country in which sale is done.
+1. InvoiceNo - This shows the Invoice number.
+2. StockCode - Shows the code of the stock.
+3. Description - Shows the name of the stock.
+4. Quantity - Shows the number of quantity sold.
+5. InvoiceDate - Shows the date of transaction.
+6. UnitPrice - Shows price of respective stock.
+7. CustomerId -  Shows the unique id of the customer.
+8. Country - Shows the country in which sale is done.
 
 ### Library used
 * pandas 
