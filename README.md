@@ -2,8 +2,8 @@
 ### Introduction
 This project is focused on doing Exploratory Data Analysis with Python and generate insights from an offline retail store. 
 
-* Dataset * - ProductRetailAnalyticsEcom.
-* Description * - Dataset contains sale of an offline store from 1st Dec 2010 to 9th Dec 2011 (One year).
+* Dataset - ProductRetailAnalyticsEcom.
+* Description - Dataset contains sale of an offline store from 1st Dec 2010 to 9th Dec 2011 (One year).
 
 The varaible used in the dataset are described below:
 1. InvoiceNo - This shows the Invoice number.
@@ -19,8 +19,8 @@ The varaible used in the dataset are described below:
 * pandas 
 * numpy
 * matplotlib
-* seaborn,
-* warnings,
+* seaborn
+* warnings
 * datetime
 
 ### Insights from the data
